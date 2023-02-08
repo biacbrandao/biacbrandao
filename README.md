@@ -3,9 +3,8 @@
 ### Hey, I'm Beatriz 
 
 - Majoring in marine engineering :ship:, currently transitioning careers to software development.
-- I've completed the Next programme :computer:.
 - I’m interested in music, technology and learning new things.
-- I’m currently learning python, java, spring boot and git.
+- I’m currently learning python, java, spring boot and git. :computer:
 <div align='left'>
 📫 How to reach me:
 
